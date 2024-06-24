@@ -1,3 +1,26 @@
 .nav-link {
   margin-left: 40px;
 }
+
+#support {
+  background-color: rgb(56, 126, 209);
+  color: white;
+}
+
+#support a {
+  color: white;
+}
+
+#supportWrapper, #helllo {
+  display: flex !important;
+  justify-content: space-between !important;
+  margin: 0 150px !important;
+}
+
+#support input {
+  padding: 20px 50px;
+  width: 100%;
+  font-size: 20px;
+  border-radius: 5px;
+  border: none;
+}
